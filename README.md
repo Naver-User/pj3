@@ -93,7 +93,7 @@ ChatMessage   # 개별 메시지
 Schedule      # 여행 일정 (JSON)
 Place         # 장소 정보 (좌표 포함)
 UserProfile   # 사용자 프로필
-
+```
 
 ---
 
