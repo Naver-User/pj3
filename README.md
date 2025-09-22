@@ -15,7 +15,7 @@
 
 ## 🏗️ 프로젝트 구조
 
-```bash
+
 pj3/
 ├── config/                  # Django 설정
 ├── chatbot/                 # 챗봇 앱 (핵심 기능)
@@ -92,7 +92,7 @@ ChatMessage   # 개별 메시지
 Schedule      # 여행 일정 (JSON)
 Place         # 장소 정보 (좌표 포함)
 UserProfile   # 사용자 프로필
-```
+
 
 ---
 
